@@ -1,14 +1,13 @@
 # Scratchpad
 
-Random notes, configs, and small experiments.
+Personal notes, snippets, and quick experiments.
 
-## Contents
-- `notes/` — temporary thoughts and snippets
-- `scripts/` — one-off helpers
-- `configs/` — dotfiles and tool settings
+## Sections
+
+- `notes/` — markdown notes and observations
+- `scripts/` — throwaway scripts and one-liners
+- `configs/` — sample configs for reference
 
 ## Usage
-Nothing formal. Just add files as needed.
 
-## License
-MIT
+This repo is a personal workspace. Content may be incomplete or experimental.
